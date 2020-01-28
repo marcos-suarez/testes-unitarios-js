@@ -6,5 +6,3 @@ Testes Unitários JS
 **Dias do Mês**
 **Dobro do valor**
 **Media Simples**
-
-####by Marcos Augusto S. Bezerra
